@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "javascript poker21",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "nodemon ./bin/www",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +11,7 @@
   "author": "Moncef Saiki",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.2"
+    "express": "^4.17.2",
+    "node-fetch": "^3.1.1"
   }
 }

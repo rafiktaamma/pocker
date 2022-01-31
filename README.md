@@ -1,7 +1,5 @@
 # Poker21
 
-## Rafik Zakaria
-
 ## Mise en place de l'environnement
 
 1- Clôner le repository et se placer dans le répertoire poker21
